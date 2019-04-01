@@ -1,0 +1,8 @@
+*.pdf
+*.temp
+~*
+*~
+#*#
+.DS_Store
+
+Authorization.py
