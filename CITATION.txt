@@ -1,0 +1,15 @@
+To reference Software Ale in publications, please cite both of the following:
+Alessandra Luca\`a: "Software Ale: Getting Scientists to Write Better
+Code by Making Them More Productive".  Computing in Science &
+Engineering, Nov-Dec 2018.
+
+Alessandra Luca\`a: "Software Ale: Lessons Learned". arXiv:0000.000,
+April 2019.
+
+@article{luca-software-carpentry-2006,
+    author =  {Alessandra Luca\`a},
+    title =   {Software Ale: Getting Scientists to Write Better Code by Making Them More Productive},
+    journal = {Computing in Science \& Engineering},
+    month =   {November--December},
+    year =    {2019},
+}
